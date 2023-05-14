@@ -330,6 +330,7 @@ letter-spacing: 0em;
 text-align: left;
 display: block;
 margin-top: 5px;
+width: 61%;
 
 }
 .aw-sub{
@@ -435,6 +436,7 @@ left: 65px;
         font-size: 26px;
     }
     .aw-subtext{
+        width: auto;
         font-size: 23px;
         line-height: 30px;
         padding-right: 10px;
