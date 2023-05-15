@@ -455,7 +455,7 @@ margin-right: 120px;
     }
     .img{
         padding-top: 90px;
-        padding-left: 150px;
+        padding-left: 190px;
         padding-right: 50px;
         margin-right: 0;
         margin-left: 0;
@@ -520,6 +520,7 @@ margin-right: 120px;
 .img img{
   width: 218px;
 height: 287px;
+padding-left: 55px;
 }
 .cont{
   /* display: grid; */
@@ -553,8 +554,8 @@ height: 287px;
 }
 .img{
   padding-top: 20px;
-  padding-left: 70px;
-  padding-right: 50px;
+  /* padding-left: 80px;
+  padding-right: 40px; */
   margin-right: 0;
   margin-left: 0;
 }
