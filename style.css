@@ -446,15 +446,22 @@ text-align: left;
         height: 781px;
     }
     .next a{
+      font-size: 64px;
         margin-right: 50px;
     }
     .next p{
         padding-bottom: 40px;
         font-size: 24px;
-        padding-right: 138px;
+        padding-right: 118px;
     }
     .contact-header{
       margin-left: 50px;
+    }
+    .arrowSymbol{
+      width: 50px;
+      align-items: center;
+      /* margin-top: 20px; */
+      /* padding-top: 40px; */
     }
    
    
