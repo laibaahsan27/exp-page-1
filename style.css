@@ -430,8 +430,10 @@ text-align: left;
         font-size: 23px;
         line-height: 30px;
         padding-right: 10px;
+        padding-bottom: 10px;
     }
     .img{
+      margin-top: 20px;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -459,9 +461,12 @@ text-align: left;
     }
     .arrowSymbol{
       width: 50px;
-      align-items: center;
-      /* margin-top: 20px; */
-      /* padding-top: 40px; */
+    }
+    .nextHover:active{
+      color: #ffffff;
+        transition: 0.2s ease-in-out;
+        text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
+          2px 2px black, -2px -2px black, 2px -2px black, -2px 2px black;
     }
    
    
@@ -541,12 +546,12 @@ text-align: left;
   top: -60px;
 }
 .next a{
-  margin-right: 10px;
+  margin-right: 20px;
   font-size: 27px;
-  top: -40px;
+
 }
 .nextHover{
-  top: -40px;
+
 }
 .next{
   height: 150px;
